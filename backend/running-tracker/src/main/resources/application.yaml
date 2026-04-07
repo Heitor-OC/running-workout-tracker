@@ -1,3 +1,5 @@
 spring:
   application:
     name: running-tracker
+  profile:
+    active: dev
